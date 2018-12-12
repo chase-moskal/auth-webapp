@@ -1,0 +1,21 @@
+{
+	"private": true,
+	"name": "auth-webapp",
+	"version": "0.0.0-dev.0",
+	"description": "example microservice and frontend",
+	"main": "index.js",
+	"keywords": [],
+	"author": "Chase Moskal <chasemoskal@gmail.com>",
+	"license": "ISC",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chase-moskal/auth-webapp.git"
+	},
+	"bugs": {
+		"url": "https://github.com/chase-moskal/auth-webapp/issues"
+	},
+	"homepage": "https://github.com/chase-moskal/auth-webapp#readme"
+}
